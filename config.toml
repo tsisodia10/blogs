@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     [languages.en.params]
       introTitle = "Hey! I'm Twinkll Sisodia"
-      introSubtitle = "Enthusiast and crazy by all means!!"
-      introPhoto = "/picture.jpg"
+      introSubtitle = "Enthusiast by all means!!"
+      introPhoto = "/icon-what-section.png"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
